@@ -1,4 +1,6 @@
 # octool
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fatpons%2Foctool.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fatpons%2Foctool?ref=badge_shield)
+
 OpenConnect Wrapper
 
 ## Usage
@@ -32,3 +34,6 @@ User = "bob"                            # SSH Username
 Host = "bastion.example.com:22"         # SSH host
 IdentityFile = "/Users/bob/.ssh/id_rsa" # SSH Key
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fatpons%2Foctool.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fatpons%2Foctool?ref=badge_large)
